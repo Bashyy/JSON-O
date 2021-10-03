@@ -1,0 +1,38 @@
+{
+  "scriptHub":{
+    "Dex Explorer":{
+      "Name": "Dex Explorer",
+      "source": "https://raw.githubusercontent.com/Fujijared2810/dexxx/main/dex",
+      "Description": "This is a game explorer (really useful for lua devs)",
+      "Picture": "https://i.gyazo.com/b89d5c8f16837504f68d228333a0350b.png"
+    },
+    "CMD X":{
+      "Name": "CMD X",
+      "source": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",
+      "Description": "An Admin Commands script",
+      "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890034644127481927/t8BF4Th.png"
+      },
+      "Infinite Yield":{
+        "Name": "CMD X",
+        "source": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",
+        "Description": "One of the best Admin Commands",
+        "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890034644127481927/t8BF4Th.png"
+        },
+        "Owl Hub":{
+          "Name": "Owl Hub",
+          "source": "https://raw.githubusercontent.com/SiLeNSwOrD/OwlHub/master/OwlHub.txt",
+          "Description": "Best High Quality Script",
+          "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890032890719657984/owl-hub1.png"
+        },
+        "Domain hub V2":{
+          "Name": "Domain Hub V2",
+          "souce": "https://raw.githubusercontent.com/shlexsoftworks/Domain/main/source",
+          "Description": "One of the best high quality tools for Roblox!",
+          "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890034125795389480/PC5ARCZ.png"
+        },
+        "Solaris Hub":{
+          "Name": "Solaris Hub",
+          "souce": "https://solarishub.dev/script.lua",
+          "Description": "The best new script hub 1 top 15+ supported games!",
+          "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/891858359039451156/mqdefault.png",
+          
